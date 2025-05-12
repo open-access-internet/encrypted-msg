@@ -22,7 +22,7 @@ This Python project allows you to send encrypted messages over a local network u
 - [`cryptography`](https://pypi.org/project/cryptography/)
   ```bash
   pip install cryptography
-````
+
 
 ## 📂 Files
 
